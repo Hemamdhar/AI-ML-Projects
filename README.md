@@ -5,7 +5,7 @@ This repository contains my journey of learning and implementing Artificial Inte
 
 👨‍💻 About Me
 
-Hi, I’m Hemamdhar Nath 👋
+Hi, I’m Dakarapu Hemamdhar Nath 👋
 
 💡 A passionate learner exploring AI, ML, and Data Science.
 
