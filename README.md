@@ -52,6 +52,4 @@ Feel free to open an issue or submit a pull request.
 
 Author: Hemamdhar Nath
 
-GitHub: https://github.com/Hemamdhar
-
 
